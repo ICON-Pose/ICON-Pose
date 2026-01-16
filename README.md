@@ -2,7 +2,7 @@
 The first open dataset with 1,387 egocentric images and corresponding 2D construction worker poses across 63 action types.
 
 # The dataset can be downloaded here:
-[Download here](https://github.com/christine715/ICON-Pose/releases/v1.0.0)
+[Download here](https://github.com/ICON-Pose/ICON-Pose/releases)
 
 # Training code and checkpoints are coming soon.
 
